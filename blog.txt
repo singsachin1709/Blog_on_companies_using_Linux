@@ -1,0 +1,39 @@
+1. Google 🌐
+
+Google is one of the biggest users of Linux. Its entire infrastructure — including Google Search, Gmail, and YouTube — runs on customized Linux servers. Even Android, the world’s most popular mobile OS, is based on the Linux kernel.
+
+2. Facebook (Meta) 📱
+
+Facebook relies heavily on Linux to handle billions of user interactions daily. The company has even optimized Linux to suit its large-scale data centers, ensuring performance, scalability, and reliability.
+
+3. Amazon (AWS) ☁️
+
+Amazon Web Services, the world’s leading cloud provider, is built on Linux. From EC2 instances to containers and serverless services, Linux is at the heart of AWS’s infrastructure.
+
+4. NASA 🚀
+
+NASA uses Linux for space research, robotics, and high-performance computing (HPC). Even the International Space Station (ISS) migrated from Windows to Linux for better stability and flexibility.
+
+5. Twitter (X) 🐦
+
+Handling millions of tweets per minute requires a fast and reliable backend. Twitter depends on Linux servers to scale efficiently and deliver real-time updates globally.
+
+6. IBM 💻
+
+IBM has been a strong supporter of Linux for decades. Its enterprise solutions, mainframes, and cloud services (IBM Cloud, Red Hat) are deeply integrated with Linux technologies.
+
+7. Netflix 🎥
+
+The world’s largest streaming platform uses Linux to serve billions of hours of video every month. Their content delivery network (CDN) Open Connect relies on Linux for smooth streaming.
+
+8. Tesla 🚗⚡
+
+Tesla vehicles run embedded Linux systems to power infotainment, autopilot, and navigation features. This makes Linux a crucial part of the electric vehicle revolution.
+
+9. Walmart 🛒
+
+Walmart uses Linux in its data centers to handle inventory, e-commerce, and logistics. It’s a perfect example of how Linux helps in managing massive retail operations.
+
+10. Sony PlayStation 🎮
+
+The PlayStation 4 and PlayStation 5 both use operating systems built on the Linux kernel, providing powerful gaming and entertainment experiences.
